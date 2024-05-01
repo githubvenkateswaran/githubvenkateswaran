@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @githubvenkateswaran
 - 👀 I’m interested in Deep Learning, NLP, ML
-- 🌱 I’m currently learning PGP AI & ML program from Purdue University
 - 💞️ I’m looking to collaborate on AI and ML projects
 - 📫 How to reach me : venkateswaran.mahadeva@gmail.com
 
