@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @githubvenkateswaran
-- 👀 I’m interested in Deep Learning, NLP, ML
+- 👀 I’m interested in Training and Consulting on AI & ML 
 - 💞️ I’m looking to collaborate on AI and ML projects
 - 📫 How to reach me : venkateswaran.mahadeva@gmail.com
 
